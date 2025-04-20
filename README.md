@@ -25,6 +25,15 @@
 
 ---
 
+## 📜 Certifications & Achievements
+
+- 📊 **Data Analytics & Generative AI Certification** – *Caltech* (Expected Oct 2025)
+- 💎 **Inside LVMH Certification** – *LVMH* (Issued Nov 2024)  
+  *(Skills: Luxury Retail, Customer Experience, Supply Chain, Product Traceability, Sustainability, Analytics)*
+- 🟡 **Six Sigma Yellow Belt** – *LinkedIn Learning* (Issued Jan 2021)
+
+---
+
 ## 📂 Featured Projects
 
 🚧 _More coming soon as I work through my Caltech cert and personal projects!_  
