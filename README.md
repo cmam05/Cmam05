@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cmam05/cmam05)
 
 🎓 **Industrial & Systems Engineer** with a focus in Operations (USC grad!)  
-💡 **4+ years of experience** across supply chain, automation, and data analytics  
+💡 **3+ years of experience** across supply chain, automation, and data analytics  
 🔬 Former **Systems Engineer** in pharmaceutical automation  
 📈 Currently a **Sr. Demand Planning Analyst** at Studio Distribution Services  
 📚 Completing **Data Analytics & Generative AI certification** at Caltech (Oct 2025)  
@@ -20,6 +20,8 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white)
+![Amazon Vendor Central](https://img.shields.io/badge/-Amazon%20Vendor%20Central-232F3E?logo=amazon&logoColor=white)
 
 ---
 
