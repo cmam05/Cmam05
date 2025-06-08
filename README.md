@@ -39,6 +39,8 @@
 🚧 _More coming soon as I work through my Caltech cert and personal projects!_  
 In the meantime, check out what I’m learning and building in the repos below 👇
 
+https://github.com/cmam05/SQL-Project.git
+
 ---
 
 ## 📫 Let’s Connect
