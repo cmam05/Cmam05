@@ -40,6 +40,7 @@
 In the meantime, check out what I’m learning and building in the repos below 👇
 
 https://github.com/cmam05/SQL-Project.git
+https://github.com/cmam05/ETL-PROJECT-AWS.git
 
 ---
 
