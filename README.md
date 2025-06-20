@@ -32,6 +32,8 @@
   *(Skills: Luxury Retail, Customer Experience, Supply Chain, Product Traceability, Sustainability, Analytics)*
 - 🟡 **Six Sigma Yellow Belt** – *LinkedIn Learning* (Issued Jan 2021)
 
+Here are all my certifications I have earned so far: https://github.com/cmam05/Data-Analytics-w-Gen-AI-Certificates.git
+
 ---
 
 ## 📂 Featured Projects
